@@ -1,0 +1,4 @@
+cd documents
+mkdir bhat0155_final_project
+cd bhat0155_final_project
+nano "T1Q1.txt"
